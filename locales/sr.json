@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "title": "Hallall Burger — Peć, Kosovo",
+    "description": "Najbolji halal burgeri u Peći. Hamburger sa ćuftama, pileći, Banjalluqki, Mix Burger. 100% sertifikovani halal."
+  },
+  "intro": {
+    "sub": "Peć, Kosovo · 100% Halal",
+    "scroll": "Skroluj da istražiš"
+  },
+  "nav": {
+    "label": "Glavna navigacija",
+    "brand": "Hallall Burger",
+    "logoAlt": "Hallall Burger logo",
+    "menu": "Meni",
+    "about": "O nama",
+    "reviews": "Komentari",
+    "location": "Lokacija",
+    "order": "Poruči sada",
+    "phoneLabel": "Kontakt telefonom"
+  },
+  "hero": {
+    "label": "Hero",
+    "tag": "Peć · Kosovo · 100% Halal",
+    "title": "<span class=\"r\">Hallall</span> Burger",
+    "subtitle": "Ukus koji voli srce — svež halal",
+    "ctaMenu": "Pogledaj meni",
+    "ctaLocation": "Pronađi nas",
+    "hint": "Otkrij"
+  },
+  "about": {
+    "frameLabel": "Hallall Burger restoran",
+    "badgeLabel": "4.7 zvezdica na Google-u",
+    "tag": "O nama",
+    "title": "Pravljen sa <em>srcem</em>,<br>služen sa ponosom",
+    "desc1": "Hallall Burger je destinacija u Peći za ukusne hamburgere napravljene od najboljih halal sastojaka. Svaka pljeskavica se priprema sveža — svaki zalogaj je pravo iskustvo.",
+    "desc2": "Smješteni u srcu Peći, u ulici Mehmet Akif, vjerujemo da dobra hrana okuplja ljude. Povoljne cijene, visok kvalitet — svaki put.",
+    "halal": "100% Sertifikovani Halal",
+    "statRating": "Google ocjena",
+    "statHalal": "Halal",
+    "statFresh": "Svaki dan",
+    "statLocation": "Kosovo"
+  },
+  "menu": {
+    "tag": "Naš meni",
+    "title": "Naši <em>Burgeri</em>",
+    "desc": "Sveži sastojci. 100% halal. Povoljne cijene.",
+    "items": {
+      "qyfte": {
+        "tag": "Klasični",
+        "name": "Hamburger sa ćuftama",
+        "sub": "Halal juneća pljeskavica, salata, paradajz, kiseli krastavci",
+        "priceLabel": "2 evra"
+      },
+      "pule": {
+        "tag": "Pileći",
+        "name": "Pileći hamburger",
+        "sub": "Halal pileći file, salata, specijalni sos",
+        "priceLabel": "2 evra"
+      },
+      "banjalluqki": {
+        "tag": "Premium · Bestseller",
+        "name": "Banjalluqki",
+        "sub": "Banja Luka stil — pravo burger iskustvo",
+        "priceLabel": "4 evra"
+      },
+      "mix": {
+        "tag": "Specijal · Novo",
+        "name": "Mix Burger",
+        "sub": "Kombinacija junećeg i pilećeg — dva ukusa u jednom",
+        "priceLabel": "3.50 evra"
+      },
+      "crispy": {
+        "tag": "Novo",
+        "name": "Crispy Chicken",
+        "sub": "Hrskavi pileći file, salata, specijalni sos",
+        "priceSoon": "cijena uskoro"
+      },
+      "tostPershute": {
+        "tag": "Tost",
+        "name": "Tost sa šunkom",
+        "sub": "Tost sa halal šunkom, sirom i sosom",
+        "priceSoon": "cijena uskoro"
+      },
+      "double": {
+        "tag": "Premium",
+        "name": "Double Burger",
+        "sub": "Dvije halal juneće pljeskavice — dupli ukus",
+        "priceSoon": "cijena uskoro"
+      },
+      "cheese": {
+        "tag": "Klasični",
+        "name": "Cheese Burger",
+        "sub": "Halal juneća pljeskavica, topljeni sir i specijalni sos",
+        "priceSoon": "cijena uskoro"
+      },
+      "tostPule": {
+        "tag": "Tost · Pileći",
+        "name": "Pileći tost",
+        "sub": "Tost sa halal piletinom, salatom i sosom",
+        "priceSoon": "cijena uskoro"
+      },
+      "nuggets": {
+        "tag": "Novo",
+        "name": "Nuggets",
+        "sub": "Hrskavi halal pileći nuggets",
+        "priceSoon": "cijena uskoro"
+      }
+    },
+    "sides": {
+      "title": "Prilozi",
+      "fries": "Pomfrit",
+      "small": "Mali",
+      "large": "Veliki"
+    },
+    "extras": {
+      "title": "Dodaci · Extra",
+      "cheese": "Sir",
+      "cheeseSub": "Dodatni sir",
+      "riska": "Riska",
+      "riskaSub": "Specijalni sos"
+    },
+    "specials": {
+      "tag": "Specijaliteti",
+      "title": "Naši <em>Specijaliteti</em>",
+      "desc": "Posebna jela — ukusi drugačiji od svega ostalog.",
+      "tortilla": {
+        "tag": "Specijal",
+        "name": "Tortilla",
+        "sub": "Tortilja sa svežim halal punjenjem",
+        "priceSoon": "cijena uskoro"
+      },
+      "kombinim": {
+        "tag": "Specijal",
+        "name": "Kombinacija mesa",
+        "sub": "Halal kombinacija mesa — maksimalan ukus",
+        "priceSoon": "cijena uskoro"
+      },
+      "kaqika": {
+        "tag": "Specijal",
+        "name": "Vruća kobasica",
+        "sub": "Halal kobasica, kiseli krastavci i specijalni sos",
+        "priceSoon": "cijena uskoro"
+      },
+      "coming": {
+        "tag": "Uskoro",
+        "name": "Uskoro...",
+        "sub": "Nešto novo dolazi — ostanite sa nama!"
+      }
+    },
+    "disclaimer": "* Cijene novih artikala biće dodane uskoro. Svi proizvodi su 100% sertifikovani halal."
+  },
+  "reviews": {
+    "tag": "Šta ljudi kažu",
+    "title": "Pravi <em>Komentari</em>",
+    "ratingLabel": "4.7 zvezdica",
+    "count": "3 Google komentara",
+    "featuredSource": "Verifikovani Google komentari · Hallall Burger, Peć 30000",
+    "stars5": "5 zvezdica",
+    "reviewer": "Google recenzent",
+    "via": "preko Google Maps"
+  },
+  "location": {
+    "tag": "Pronađi nas",
+    "title": "Naša <em>Lokacija</em>",
+    "mapTitle": "Hallall Burger na Google Maps",
+    "addressLbl": "Adresa",
+    "addressVal": "Rruga Mehmet Akif 45<br>Peć 30000, Kosovo",
+    "ratingLbl": "Google ocjena",
+    "ratingVal": "4.7 / 5 — Visoko ocijenjeno u Peći",
+    "certLbl": "Sertifikacija",
+    "certVal": "100% Sertifikovani Halal<br>Sveži sastojci svaki dan",
+    "directionsLbl": "Kako do nas",
+    "directionsVal": "Centar Peći, lako dostupno pješice ili autom.",
+    "mapsBtn": "Otvori u Google Maps"
+  },
+  "order": {
+    "tag": "Spreman za jelo?",
+    "title": "Kako da <em>Poručiš</em>",
+    "desc": "Dobijanje tvog Hallall burgera je jednostavno. Posjeti našu radnju i mi se brinemo za ostatak.",
+    "step1Title": "Posjeti",
+    "step1Desc": "Dođi na Mehmet Akif 45, Peć i uđi direktno",
+    "step2Title": "Izaberi",
+    "step2Desc": "Izaberi burger, prilog i piće",
+    "step3Title": "Uživaj",
+    "step3Desc": "Kuhano sveže po narudžbi, posluženo vruće"
+  },
+  "footer": {
+    "copy": "© 2026 Hallall Burger · Peć, Kosovo · Sva prava zadržana",
+    "linksLabel": "Donje linkove",
+    "about": "O nama",
+    "menu": "Meni",
+    "location": "Lokacija"
+  },
+  "a11y": {
+    "openMenu": "Otvori meni",
+    "themeDark": "Prebaci na tamni režim",
+    "themeLight": "Prebaci na svijetli režim",
+    "langSwitch": "Izaberi jezik"
+  }
+}
