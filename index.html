@@ -90,6 +90,52 @@
     .lang-switch--mobile{display:none;margin-top:8px;padding-top:14px;border-top:1px solid var(--red-b);width:100%;justify-content:center}
     .n-lang-item{display:none}
 
+    /* Mobile-only menu buttons */
+    .n-phone-item,
+    .n-cta-item{
+      display:none;
+      list-style:none;
+    }
+
+    .mobile-phone-btn,
+    .mobile-cta-btn{
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      width:100%;
+      padding:12px 18px;
+      border-radius:999px;
+      text-decoration:none;
+      font-family:Arial,Helvetica,sans-serif;
+      font-size:12px;
+      font-weight:700;
+      letter-spacing:.08em;
+      text-transform:uppercase;
+      transition:background .2s,transform .2s;
+    }
+
+    .mobile-phone-btn{
+      background:var(--red);
+      color:#fff;
+      margin-bottom:10px;
+    }
+
+    .mobile-phone-btn:hover{
+      background:var(--red-l);
+      transform:translateY(-1px);
+    }
+
+    .mobile-cta-btn{
+      background:rgba(255,255,255,.08);
+      color:var(--text);
+      margin-bottom:18px;
+    }
+
+    .mobile-cta-btn:hover{
+      background:rgba(255,255,255,.15);
+      transform:translateY(-1px);
+    }
+
     /* ── HERO ── */
     #hero{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;position:relative;overflow:hidden;padding:120px 24px 80px}
     .h-bg{position:absolute;inset:0;background-color:var(--bg);background-image:url('hero-bg.png'),radial-gradient(ellipse 70% 50% at 50% 85%,rgba(254,0,0,.09) 0%,transparent 60%),radial-gradient(ellipse 40% 30% at 50% 95%,rgba(232,112,32,.10) 0%,transparent 50%);background-size:cover,contain,contain;background-position:center center,center center,center center;background-repeat:no-repeat,no-repeat,no-repeat;z-index:0}
@@ -222,29 +268,90 @@
     .f-links a{font-family:'Montserrat',sans-serif;font-size:10px;letter-spacing:.14em;color:var(--text3);text-decoration:none;text-transform:uppercase;transition:color .2s}
     .f-links a:hover{color:var(--red)}
 
-    /* ── RESPONSIVE ── */
-    @media(max-width:900px){
-      nav{padding:14px 24px}
-      .n-links,.n-cta{display:none}
-      .n-lang-item{display:block}
-      .lang-switch--desktop{display:none}
-      .nav-open .lang-switch--mobile{display:inline-flex}
-      .n-ham{display:flex}
-      .wrap{padding:72px 24px}
-      .about-grid{grid-template-columns:1fr;gap:44px}
-      .menu-grid{grid-template-columns:1fr}
-      .menu-bottom{grid-template-columns:1fr}
-      .rev-grid{grid-template-columns:1fr}
-      .loc-grid{grid-template-columns:1fr}
-      .order-box{padding:48px 28px}
-      footer{padding:28px 24px}
-      .f-links{display:none}
-    }
-    @media(max-width:580px){
-      .stats{grid-template-columns:1fr 1fr}
-      .rating-bar{flex-direction:column;gap:16px}
-      .rb-sep{width:60px;height:1px}
-    }
+/* ── RESPONSIVE ── */
+@media(max-width:900px){
+  nav{padding:14px 24px}
+
+  .n-links,
+  .n-cta,
+  .phone-btn{
+    display:none;
+  }
+
+  .n-lang-item{
+    display:block;
+  }
+
+  .n-phone-item,
+  .n-cta-item{
+    display:block;
+  }
+
+  .lang-switch--desktop{
+    display:none;
+  }
+
+  .nav-open .lang-switch--mobile{
+    display:inline-flex;
+  }
+
+  .n-ham{
+    display:flex;
+  }
+
+  .wrap{
+    padding:72px 24px;
+  }
+
+  .about-grid{
+    grid-template-columns:1fr;
+    gap:44px;
+  }
+
+  .menu-grid{
+    grid-template-columns:1fr;
+  }
+
+  .menu-bottom{
+    grid-template-columns:1fr;
+  }
+
+  .rev-grid{
+    grid-template-columns:1fr;
+  }
+
+  .loc-grid{
+    grid-template-columns:1fr;
+  }
+
+  .order-box{
+    padding:48px 28px;
+  }
+
+  footer{
+    padding:28px 24px;
+  }
+
+  .f-links{
+    display:none;
+  }
+}
+    
+@media(max-width:580px){
+  .stats{
+    grid-template-columns:1fr 1fr;
+  }
+
+  .rating-bar{
+    flex-direction:column;
+    gap:16px;
+  }
+
+  .rb-sep{
+    width:60px;
+    height:1px;
+  }
+}  
     @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms !important;transition-duration:.01ms !important}}
   </style>
 </head>
@@ -268,10 +375,32 @@
       <span>Hallall Burger</span>
     </a>
     <ul class="n-links" role="menubar">
+
+      <!-- Mobile-only phone button -->
+      <li class="n-phone-item" role="none">
+        <a role="menuitem"
+           href="tel:+38349988918"
+           class="mobile-phone-btn"
+           data-i18n="nav.call">
+           Na Telefononi
+        </a>
+      </li>
+
+      <!-- Mobile-only order button -->
+      <li class="n-cta-item" role="none">
+        <a role="menuitem"
+           href="#order"
+           class="mobile-cta-btn"
+           data-i18n="nav.order">
+           Porosit Tani
+        </a>
+      </li>
+
       <li role="none"><a role="menuitem" href="#menu" data-i18n="nav.menu">Menuja</a></li>
       <li role="none"><a role="menuitem" href="#about" data-i18n="nav.about">Rreth Nesh</a></li>
       <li role="none"><a role="menuitem" href="#reviews" data-i18n="nav.reviews">Komentet</a></li>
       <li role="none"><a role="menuitem" href="#location" data-i18n="nav.location">Lokacioni</a></li>
+
       <li class="n-lang-item" role="none">
         <div class="lang-switch lang-switch--mobile" role="group" data-i18n-attr="aria-label:a11y.langSwitch" aria-label="Zgjidh gjuhën">
           <button type="button" class="lang-btn active" data-lang="sq" lang="sq" aria-pressed="true">SQ</button>
@@ -279,6 +408,7 @@
           <button type="button" class="lang-btn" data-lang="sr" lang="sr" aria-pressed="false">SR</button>
         </div>
       </li>
+
     </ul>
     <div class="n-actions">
       <div class="lang-switch lang-switch--desktop" role="group" data-i18n-attr="aria-label:a11y.langSwitch" aria-label="Zgjidh gjuhën">
