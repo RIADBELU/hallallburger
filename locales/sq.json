@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "title": "Hallall Burger — Pejë, Kosovë",
+    "description": "Hamburgerët më të mirë hallall në Pejë. Hamburger me Qyfte, të Pules, Banjalluqki, Mix Burger. 100% hallall e çertifikuar."
+  },
+  "intro": {
+    "sub": "Pejë, Kosovë · 100% Hallall",
+    "scroll": "Scroll to explore"
+  },
+  "nav": {
+    "label": "Navigimi kryesor",
+    "brand": "Hallall Burger",
+    "logoAlt": "Hallall Burger logo",
+    "menu": "Menuja",
+    "about": "Rreth Nesh",
+    "reviews": "Komentet",
+    "location": "Lokacioni",
+    "order": "Porosit Tani",
+    "phoneLabel": "Kontakto me telefon"
+  },
+  "hero": {
+    "label": "Hero",
+    "tag": "Pejë · Kosovë · 100% Hallall",
+    "title": "<span class=\"r\">Hallall</span> Burger",
+    "subtitle": "Shija që e do zemra — hallall e freskët",
+    "ctaMenu": "Shiko Menunë",
+    "ctaLocation": "Na Gjej",
+    "hint": "Zbulo"
+  },
+  "about": {
+    "frameLabel": "Hallall Burger restauranti",
+    "badgeLabel": "4.7 yje Google",
+    "tag": "Rreth nesh",
+    "title": "Bërë me <em>zemër</em>,<br>shërbyer me krenari",
+    "desc1": "Hallall Burger është destinacioni i Pejës për hamburgerë të shijshëm, bërë me ingrediencët më të mira hallall. Çdo qofte përgatitet me freski, me kujdes dhe përkushtim, që çdo kafshatë të jetë eksperiencë e vërtetë.",
+    "desc2": "I vendosur në zemër të Pejës, në rrugën Mehmet Akif, ne besojmë se ushqimi i mirë i bashkon njerëzit. Çmime të arsyeshme, cilësi e lartë dhe mikpritje e ngrohtë — çdo herë.",
+    "halal": "100% Hallall e Çertifikuar",
+    "statRating": "Nota Google",
+    "statHalal": "Hallall",
+    "statFresh": "Çdo ditë",
+    "statLocation": "Kosovë",
+    "founderDate": "Themeluar më 28 gusht 2025",
+    "founderName": "Osa Goga",
+    "founderStory": "Osa është musliman dhe e ndërtoi këtë restorant për t'u dhënë njerëzve një mënyrë të re dhe hallall për të shijuar ushqimet që duam."
+  },
+  "menu": {
+    "tag": "Menuja jonë",
+    "title": "Hamburgerët <em>Tanë</em>",
+    "desc": "Ingrediencë të freskëta. 100% hallall. Çmime të arsyeshme.",
+    "items": {
+      "qyfte": {
+        "tag": "Klasik",
+        "name": "Hamburger me Qyfte",
+        "sub": "Qofte viçi hallall, sallatë, domate, turshi",
+        "priceLabel": "2 euro"
+      },
+      "pule": {
+        "tag": "Pule",
+        "name": "Hamburger të Pules",
+        "sub": "Fileto pule hallall, sallatë, salcë speciale",
+        "priceLabel": "2 euro"
+      },
+      "banjalluqki": {
+        "tag": "Premium · Bestseller",
+        "name": "Banjalluqki",
+        "sub": "Stili Banja Luka — eksperienca e vërtetë e hamburgerit",
+        "priceLabel": "4 euro"
+      },
+      "mix": {
+        "tag": "Special · I ri",
+        "name": "Mix Burger",
+        "sub": "Kombinim i viçit dhe pulës — dy shija në një",
+        "priceLabel": "3.50 euro"
+      },
+      "crispy": {
+        "tag": "I Ri",
+        "name": "Crispy Chicken",
+        "sub": "Fileto pule krokante, sallatë, salcë speciale",
+        "priceSoon": "çmimi së shpejti"
+      },
+      "tostPershute": {
+        "tag": "Tost",
+        "name": "Tost Pershute",
+        "sub": "Tost me pershutë hallall, djath dhe salcë",
+        "priceSoon": "çmimi së shpejti"
+      },
+      "double": {
+        "tag": "Premium",
+        "name": "Double Burger",
+        "sub": "Dy patë viçi hallall — dyfishi i shijës",
+        "priceSoon": "çmimi së shpejti"
+      },
+      "cheese": {
+        "tag": "Klasik",
+        "name": "Cheese Burger",
+        "sub": "Patë viçi hallall, djath i shkrirë dhe salcë speciale",
+        "priceSoon": "çmimi së shpejti"
+      },
+      "tostPule": {
+        "tag": "Tost · Pule",
+        "name": "Tost Pules",
+        "sub": "Tost me pule hallall, sallatë dhe salcë",
+        "priceSoon": "çmimi së shpejti"
+      },
+      "nuggets": {
+        "tag": "I Ri",
+        "name": "Nuggets",
+        "sub": "Nuggets pule krokante hallall",
+        "priceSoon": "çmimi së shpejti"
+      }
+    },
+    "sides": {
+      "title": "Anësor",
+      "fries": "Pomfrit",
+      "small": "E vogël",
+      "large": "E madhe"
+    },
+    "extras": {
+      "title": "Shtesa · Extra",
+      "cheese": "Djath",
+      "cheeseSub": "Shtim djathi",
+      "riska": "Riska",
+      "riskaSub": "Salcë speciale"
+    },
+    "specials": {
+      "tag": "Specialitetet",
+      "title": "Specialitetet <em>Tona</em>",
+      "desc": "Pjata speciale — shije ndryshe nga gjithçka tjetër.",
+      "tortilla": {
+        "tag": "Special",
+        "name": "Tortilla",
+        "sub": "Tortillë me mbushje të freskëta hallall",
+        "priceSoon": "çmimi së shpejti"
+      },
+      "kombinim": {
+        "tag": "Special",
+        "name": "Kombinim Mishi",
+        "sub": "Kombinim i mishrave hallall — shija maksimale",
+        "priceSoon": "çmimi së shpejti"
+      },
+      "kaqika": {
+        "tag": "Special",
+        "name": "Kaqika Nxehtë",
+        "sub": "Kaqikë hallall, turshi dhe salcë speciale",
+        "priceSoon": "çmimi së shpejti"
+      },
+      "coming": {
+        "tag": "Së Shpejti",
+        "name": "Duke ardhur...",
+        "sub": "Diçka e re po vjen — qëndro me ne!"
+      }
+    },
+    "disclaimer": "* Çmimet e artikujve të rinj do të shtohen së shpejti. Të gjitha produktet janë 100% hallall të çertifikuar."
+  },
+  "reviews": {
+    "tag": "Çfarë thonë njerëzit",
+    "title": "Komente <em>Reale</em>",
+    "ratingLabel": "4.7 yje",
+    "count": "3 Komente Google",
+    "featuredSource": "Komente të verifikuara Google · Hallall Burger, Pejë 30000",
+    "stars5": "5 yje",
+    "reviewer": "Recensues Google",
+    "via": "via Google Maps"
+  },
+  "location": {
+    "tag": "Na gjej",
+    "title": "Lokacioni <em>Ynë</em>",
+    "mapTitle": "Hallall Burger në Google Maps",
+    "addressLbl": "Adresa",
+    "addressVal": "Rruga Mehmet Akif 45<br>Pejë 30000, Kosovë",
+    "ratingLbl": "Nota Google",
+    "ratingVal": "4.7 / 5 — E vlerësuar lartë në Pejë",
+    "certLbl": "Çertifikimi",
+    "certVal": "100% Hallall e Çertifikuar<br>Ingrediencë të freskëta çdo ditë",
+    "directionsLbl": "Si të arrish",
+    "directionsVal": "Qendra e Pejës, lehtë i arritshëm me këmbë ose makinë.",
+    "mapsBtn": "Hap në Google Maps"
+  },
+  "order": {
+    "tag": "Gati të hash?",
+    "title": "Si të <em>Porositësh</em>",
+    "desc": "Të marrësh hamburgerin tënd Hallall është e thjeshtë. Vizito dyqanin tonë dhe ne kujdesemi për pjesën tjetër.",
+    "step1Title": "Vizito",
+    "step1Desc": "Eja te Mehmet Akif 45, Pejë dhe hyr direkt",
+    "step2Title": "Zgjedh",
+    "step2Desc": "Zgjidh hamburgerin, anësorin dhe pijet tua",
+    "step3Title": "Shijo",
+    "step3Desc": "Gatuar fres me porosi, shërbyer nxehtë"
+  },
+  "footer": {
+    "copy": "© 2026 Hallall Burger · Pejë, Kosovë · Të gjitha të drejtat e rezervuara",
+    "linksLabel": "Lidhjet e poshtme",
+    "about": "Rreth nesh",
+    "menu": "Menuja",
+    "location": "Lokacioni"
+  },
+  "a11y": {
+    "openMenu": "Hap menunë",
+    "themeDark": "Kalo në modalitetin e errët",
+    "themeLight": "Kalo në modalitetin e ndritshëm",
+    "langSwitch": "Zgjidh gjuhën"
+  }
+}

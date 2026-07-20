@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "title": "Hallall Burger — Peja, Kosovo",
+    "description": "The best halal burgers in Peja. Beef Patty Burger, Chicken Burger, Banjalluqki, Mix Burger. 100% certified halal."
+  },
+  "intro": {
+    "sub": "Peja, Kosovo · 100% Halal",
+    "scroll": "Scroll to explore"
+  },
+  "nav": {
+    "label": "Main navigation",
+    "brand": "Hallall Burger",
+    "logoAlt": "Hallall Burger logo",
+    "menu": "Menu",
+    "about": "About Us",
+    "reviews": "Reviews",
+    "location": "Location",
+    "order": "Order Now",
+    "phoneLabel": "Contact by phone"
+  },
+  "hero": {
+    "label": "Hero",
+    "tag": "Peja · Kosovo · 100% Halal",
+    "title": "<span class=\"r\">Hallall</span> Burger",
+    "subtitle": "The taste your heart loves — fresh halal",
+    "ctaMenu": "View Menu",
+    "ctaLocation": "Find Us",
+    "hint": "Discover"
+  },
+  "about": {
+    "frameLabel": "Hallall Burger restaurant",
+    "badgeLabel": "4.7 stars on Google",
+    "tag": "About us",
+    "title": "Made with <em>heart</em>,<br>served with pride",
+    "desc1": "Hallall Burger is Peja’s destination for delicious burgers made with the finest halal ingredients. Every patty is prepared fresh, with care and dedication, so every bite feels like a true experience.",
+    "desc2": "Located in the heart of Peja on Mehmet Akif Street, we believe good food brings people together. Fair prices, high quality, and a warm welcome every time.",
+    "halal": "100% Certified Halal",
+    "statRating": "Google Rating",
+    "statHalal": "Halal",
+    "statFresh": "Every day",
+    "statLocation": "Kosovo",
+    "founderDate": "Founded on August 28, 2025",
+    "founderName": "Osa Goga",
+    "founderStory": "Osa is a Muslim who built this restaurant to give people a new, delicious, and halal way to enjoy the foods we love."
+  },
+  "menu": {
+    "tag": "Our menu",
+    "title": "Our <em>Burgers</em>",
+    "desc": "Fresh ingredients. 100% halal. Fair prices.",
+    "items": {
+      "qyfte": {
+        "tag": "Classic",
+        "name": "Beef Patty Burger",
+        "sub": "Halal beef patty, lettuce, tomato, pickles",
+        "priceLabel": "2 euros"
+      },
+      "pule": {
+        "tag": "Chicken",
+        "name": "Chicken Burger",
+        "sub": "Halal chicken fillet, lettuce, special sauce",
+        "priceLabel": "2 euros"
+      },
+      "banjalluqki": {
+        "tag": "Premium · Bestseller",
+        "name": "Banjalluqki",
+        "sub": "Banja Luka style — the true burger experience",
+        "priceLabel": "4 euros"
+      },
+      "mix": {
+        "tag": "Special · New",
+        "name": "Mix Burger",
+        "sub": "Beef and chicken combo — two flavors in one",
+        "priceLabel": "3.50 euros"
+      },
+      "crispy": {
+        "tag": "New",
+        "name": "Crispy Chicken",
+        "sub": "Crispy chicken fillet, lettuce, special sauce",
+        "priceSoon": "price coming soon"
+      },
+      "tostPershute": {
+        "tag": "Toast",
+        "name": "Ham Toast",
+        "sub": "Toast with halal ham, cheese and sauce",
+        "priceSoon": "price coming soon"
+      },
+      "double": {
+        "tag": "Premium",
+        "name": "Double Burger",
+        "sub": "Two halal beef patties — double the flavor",
+        "priceSoon": "price coming soon"
+      },
+      "cheese": {
+        "tag": "Classic",
+        "name": "Cheese Burger",
+        "sub": "Halal beef patty, melted cheese and special sauce",
+        "priceSoon": "price coming soon"
+      },
+      "tostPule": {
+        "tag": "Toast · Chicken",
+        "name": "Chicken Toast",
+        "sub": "Toast with halal chicken, lettuce and sauce",
+        "priceSoon": "price coming soon"
+      },
+      "nuggets": {
+        "tag": "New",
+        "name": "Nuggets",
+        "sub": "Crispy halal chicken nuggets",
+        "priceSoon": "price coming soon"
+      }
+    },
+    "sides": {
+      "title": "Sides",
+      "fries": "French Fries",
+      "small": "Small",
+      "large": "Large"
+    },
+    "extras": {
+      "title": "Extras",
+      "cheese": "Cheese",
+      "cheeseSub": "Extra cheese",
+      "riska": "Riska",
+      "riskaSub": "Special sauce"
+    },
+    "specials": {
+      "tag": "Specialties",
+      "title": "Our <em>Specialties</em>",
+      "desc": "Special dishes — flavors unlike anything else.",
+      "tortilla": {
+        "tag": "Special",
+        "name": "Tortilla",
+        "sub": "Tortilla with fresh halal filling",
+        "priceSoon": "price coming soon"
+      },
+      "kombinim": {
+        "tag": "Special",
+        "name": "Meat Combo",
+        "sub": "Halal meat combination — maximum flavor",
+        "priceSoon": "price coming soon"
+      },
+      "kaqika": {
+        "tag": "Special",
+        "name": "Hot Sausage",
+        "sub": "Halal sausage, pickles and special sauce",
+        "priceSoon": "price coming soon"
+      },
+      "coming": {
+        "tag": "Coming Soon",
+        "name": "Coming soon...",
+        "sub": "Something new is on the way — stay with us!"
+      }
+    },
+    "disclaimer": "* Prices for new items will be added soon. All products are 100% certified halal."
+  },
+  "reviews": {
+    "tag": "What people say",
+    "title": "Real <em>Reviews</em>",
+    "ratingLabel": "4.7 stars",
+    "count": "3 Google Reviews",
+    "featuredSource": "Verified Google reviews · Hallall Burger, Peja 30000",
+    "stars5": "5 stars",
+    "reviewer": "Google Reviewer",
+    "via": "via Google Maps"
+  },
+  "location": {
+    "tag": "Find us",
+    "title": "Our <em>Location</em>",
+    "mapTitle": "Hallall Burger on Google Maps",
+    "addressLbl": "Address",
+    "addressVal": "Rruga Mehmet Akif 45<br>Peja 30000, Kosovo",
+    "ratingLbl": "Google Rating",
+    "ratingVal": "4.7 / 5 — Highly rated in Peja",
+    "certLbl": "Certification",
+    "certVal": "100% Certified Halal<br>Fresh ingredients every day",
+    "directionsLbl": "How to get here",
+    "directionsVal": "Downtown Peja, easily accessible on foot or by car.",
+    "mapsBtn": "Open in Google Maps"
+  },
+  "order": {
+    "tag": "Ready to eat?",
+    "title": "How to <em>Order</em>",
+    "desc": "Getting your Hallall burger is simple. Visit our shop and we'll take care of the rest.",
+    "step1Title": "Visit",
+    "step1Desc": "Come to Mehmet Akif 45, Peja and walk right in",
+    "step2Title": "Choose",
+    "step2Desc": "Pick your burger, sides and drinks",
+    "step3Title": "Enjoy",
+    "step3Desc": "Cooked fresh to order, served hot"
+  },
+  "footer": {
+    "copy": "© 2026 Hallall Burger · Peja, Kosovo · All rights reserved",
+    "linksLabel": "Footer links",
+    "about": "About us",
+    "menu": "Menu",
+    "location": "Location"
+  },
+  "a11y": {
+    "openMenu": "Open menu",
+    "themeDark": "Switch to dark mode",
+    "themeLight": "Switch to light mode",
+    "langSwitch": "Choose language"
+  }
+}
